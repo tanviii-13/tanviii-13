@@ -10,11 +10,11 @@
 
 ### 🛠️ Tools & Technologies
 
-- **Languages:** Python, JavaScript, HTML/CSS, SQL  
+- **Languages:** Python, C, HTML/CSS, SQL  
 - **Cybersecurity Tools:** Burp Suite, Nmap, OWASP ZAP, Wireshark  
 - **QA & Testing:** Postman, Apache JMeter, JIRA  
-- **Platforms:** Linux (Kali/Ubuntu), Windows, GitHub  
-- **Other Tools:** Scikit-learn, Git, VirtualBox, TryHackMe  
+- **Platforms:** Windows, GitHub  
+- **Other Tools:** Git, VirtualBox, TryHackMe  
 
 ---
 
@@ -40,8 +40,7 @@ Here are some of the projects I’m most proud of (check pinned repos!):
 ### 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://linkedin.com/in/tanvimenon)  
-- 📧 tanvimenon2004@gmail.com  
-- 🌐 [Portfolio/Resume](#) *(Add this if you host your resume/website later)*  
+- 📧 tanvimenon2004@gmail.com    
 
 ---
 
