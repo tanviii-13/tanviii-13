@@ -1,16 +1,49 @@
-## Hi there 👋
+<h2 align="center">Hi there 👋, I'm Tanvi Menon</h2>
 
-<!--
-**tanviii-13/tanviii-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 Final Year Cybersecurity Engineering Student at Dayananda Sagar University  
+🔐 Passionate about Cybersecurity, QA Testing & Software Development  
+📍 Based in Bangalore, India
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Technologies
+
+- **Languages:** Python, JavaScript, HTML/CSS, SQL  
+- **Cybersecurity Tools:** Burp Suite, Nmap, OWASP ZAP, Wireshark  
+- **QA & Testing:** Postman, Apache JMeter, JIRA  
+- **Platforms:** Linux (Kali/Ubuntu), Windows, GitHub  
+- **Other Tools:** Scikit-learn, Git, VirtualBox, TryHackMe  
+
+---
+
+### 👩‍💻 What I'm Working On
+
+- 🔍 Building an **AI-Powered Network Intrusion Detection System** using Scikit-learn & packet sniffing
+- ⚙️ Exploring **vulnerability assessment**, **SIEM analysis**, and automation scripts
+- 💡 Expanding my GitHub with mini tools & CTF-inspired utilities
+
+---
+
+### 📌 Featured Projects
+
+Here are some of the projects I’m most proud of (check pinned repos!):
+
+- 🛡️ **AI NIDS** – Intrusion detection using ML on live network traffic  
+- 📊 **API & Load Testing** – JMeter/Postman projects for QA automation  
+- ⚒️ **Python Tools** – Basic recon, password checker, and more  
+- 🔐 **TryHackMe Labs** – Notes & walkthroughs from hands-on labs  
+
+---
+
+### 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://linkedin.com/in/tanvimenon)  
+- 📧 tanvimenon2004@gmail.com  
+- 🌐 [Portfolio/Resume](#) *(Add this if you host your resume/website later)*  
+
+---
+
+⭐ *Thanks for stopping by! I'm always open to collaborations, learning, and internships in cybersecurity or software engineering.*
+
