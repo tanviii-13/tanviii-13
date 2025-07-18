@@ -3,13 +3,12 @@
 <p align="center">
 🎓 Final Year Cybersecurity Engineering Student at Dayananda Sagar University  
 🔐 Passionate about Cybersecurity, QA Testing & Software Development  
-📍 Based in Bangalore, India
 </p>
 
 ---
 
 # 💫 About Me:
-What I'm Working On<br>🔍 Building an AI-Powered Network Intrusion Detection System using Scikit-learn & packet sniffing<br>⚙️ Exploring vulnerability assessment, SIEM analysis, and automation scripts<br>💡 Expanding my GitHub with mini tools & CTF-inspired utilities<br>Final Year Cybersecurity Engineering Student at Dayananda Sagar University 🔐 Passionate about Cybersecurity, QA Testing & Software Development 📍 Based in Bangalore, India<br><br>Languages: Python, C, HTML/CSS, SQL<br>Cybersecurity Tools: Burp Suite, Nmap, OWASP ZAP, Wireshark<br>QA & Testing: Postman, Apache JMeter, JIRA<br>Platforms: Windows, GitHub<br>Other Tools: Git, VirtualBox, TryHackMe<br>fun fact: i like cute websites
+What I'm Working On<br>🔍 Building an AI-Powered Network Intrusion Detection System using Scikit-learn & packet sniffing<br>⚙️ Exploring vulnerability assessment, SIEM analysis, and automation scripts<br>💡 Expanding my GitHub with mini tools & CTF-inspired utilities<br>Final Year Cybersecurity Engineering Student at Dayananda Sagar University 🔐 Passionate about Cybersecurity, QA Testing & Software Development 📍 Based in Bangalore, India<br><br>Languages: Python, C, HTML/CSS, SQL<br>Cybersecurity Tools: Burp Suite, Nmap, OWASP ZAP, Wireshark<br>QA & Testing: Postman, Apache JMeter, JIRA<br>Platforms: Windows, GitHub<br>Other Tools: Git, VirtualBox, TryHackMe
 
 
 ## 🌐 Socials:
