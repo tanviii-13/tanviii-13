@@ -39,7 +39,7 @@ Here are some of the projects I’m most proud of (check pinned repos!):
 
 ### 📫 Let's Connect
 
-- 🔗 [LinkedIn]([https://linkedin.com/in/tanvimenon](https://www.linkedin.com/in/tanvi-menon-35b4302b7/))  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tanvi-menon-35b4302b7/)  
 - 📧 tanvimenon2004@gmail.com    
 
 ---
